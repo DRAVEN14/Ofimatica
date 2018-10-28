@@ -1,4 +1,4 @@
-<h2 id="titulo">Apunts de Ofimatica
+Apunts de Ofimatica
 
 Lista de distribcion: Es una opcion que te ofrece el correo electronico que lo que hace es poder enviar un correo a un gran numero de personas
 
