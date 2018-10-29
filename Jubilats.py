@@ -1,10 +1,10 @@
 edad = 0;
-sexe = 1;          #0 és dona, 1 és home
+sexe = 1;          
 colorCabell = 0;
 precioFinal = 0;
 
-edad = int(input("Introduce tu edad: "))
-sexe = input("Introduce tu genero (M si eres mujer, H si eres hombre): ")
+edad = int(input("Introduca su edad: "))
+sexe = input("Introduca su genero (M si eres mujer, H si eres hombre): ")
 colorCabell = int(input("Cual es el color de tu pelo? (1 Rubio/a, 2 Peliroja, 3 Morena, 0 para otro): "))
 jubilat = input("Estas jubilado? (si, no): ")
 
