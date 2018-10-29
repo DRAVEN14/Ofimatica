@@ -1,12 +1,12 @@
 edad = 0;
 precioFinal = 0;
 
-edad = int(input("Introduce tu edad: "))
+edad = int(input("Introduca su edad: "))
 
 if edad <5:
     precioFinal = 0;
 
-if edad >=65:
+if edad >= 65:
     precioFinal = 0;
 
 if edad >5 and edad <65:
