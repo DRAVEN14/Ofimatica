@@ -9,3 +9,6 @@ else:
         radio = int(input("Que radio tiene: "))
         area_circulo = (radio**2*3.141592)
         print("El area del circulo es: ",area_circulo)
+    else:
+        if(figura!="triangulo"!="circulo"):
+            print("Error")
