@@ -1,4 +1,4 @@
-figura = input("Que es un circulo o triangulo: ")
+figura = input("Que quieres area de un circulo o triangulo: ")
 if(figura == "triangulo"):
     base = int(input("Que base tiene: "))
     altura = int(input("Que altura tiene: "))
@@ -10,5 +10,4 @@ else:
         area_circulo = (radio**2*3.141592)
         print("El area del circulo es: ",area_circulo)
     else:
-        if(figura!="triangulo"!="circulo"):
-            print("Error")
+      print("Error")
